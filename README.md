@@ -112,3 +112,5 @@ Thêm sheet "Weekly Summary" để tổng hợp công việc mỗi tuần:
    ```
    =SUMIFS('Daily Report'!E:E,'Daily Report'!B:B,A2)
    ```
+
+Đội admin (anh Hoàng và anh Thiện) sẽ tiến hành điểm danh mỗi ngày (các bạn lên văn phòng, các bạn online vẫn ghi worklog sẽ được kiểm tra vào lúc đánh giá thực tập)
