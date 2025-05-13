@@ -1,4 +1,4 @@
-# Hướng dẫn Theo dõi Thời gian Thực tập FCJ và Daily Report
+# Hướng dẫn Theo dõi Thời gian Thực tập  và Daily Report
 
 ## Theo dõi Thời gian Thực tập
 
@@ -114,3 +114,5 @@ Thêm sheet "Weekly Summary" để tổng hợp công việc mỗi tuần:
    ```
 
 Đội admin (anh Hoàng và anh Thiện) sẽ tiến hành điểm danh mỗi ngày (các bạn lên văn phòng, các bạn online vẫn ghi worklog sẽ được kiểm tra vào lúc đánh giá thực tập)
+
+Hiện thị trong report ít nhất 60 ngày (tổng thời gian thực tập là 90 ngày)
